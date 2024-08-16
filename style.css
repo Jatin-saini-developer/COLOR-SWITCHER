@@ -1,0 +1,35 @@
+.div{
+    display: flex;
+    justify-content: center;
+}
+    
+h1{
+    text-align: center;
+}
+
+
+
+.button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    
+
+   
+}
+
+#grey{
+    background-color: grey;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
